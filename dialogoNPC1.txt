@@ -1,0 +1,5 @@
+- quieres un helado?
+- llueve en tu pais?
+- llegará tarde mi padre?
+
+ ["dialogoNPC-SI"]
